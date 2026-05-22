@@ -76,7 +76,7 @@ You agree not to:
 
 4. use the App for unlawful surveillance, stalking, harassment, fraud, impersonation, or any abusive, misleading, or harmful purpose;
 
-5. use the App in a manner that could damage, disable, overburden, or impair the App or related services; or
+5. use the App in a manner that could damage, disable, overburden, or impair the App or related services;
 
 6. remove, obscure, or alter proprietary notices, trademarks, or branding included in the App.
 
